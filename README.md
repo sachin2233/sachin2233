@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @sachin2233
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on instagram
-- 📫 How to reach me @_shashank_192
-- 
+#include<iostream>
+  using namespace std;
+  int main(){
+  cout<<"hello i'm shashank bhardwaj";
+  
+  return 0;
+  }
 
 <!---
 sachin2233/sachin2233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
